@@ -47,14 +47,14 @@ $(document).ready(function() {
     {
       title: "We travel all over the US",
       subtitle: "Check out our schedule!",
-      img: "./assets/img/food-table.jpg",
+      img: "./assets/img/food-table-min-min.jpg",
       btnText: "View Schedule",
       btnUrl: "schedule.html"
     },
     {
       title: "Our food is seriously the bomb!",
       subtitle: "What are you waiting for?",
-      img: "./assets/img/grill.jpg",
+      img: "./assets/img/grill-min-min.jpg",
       btnText: "Purchase Tickets",
       btnUrl: "tickets.html"
     },
