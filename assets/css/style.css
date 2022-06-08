@@ -58,9 +58,10 @@ footer {
 }
 
 .page-content {
-  background-image: url("../img/burgers-min-min.avif");
+  background-image: url("../img/burgers.jpg");
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .pt-5, .py-5 {
