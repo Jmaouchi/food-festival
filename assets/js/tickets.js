@@ -10,7 +10,7 @@ if (window.location.href.indexOf("tickets") > -1) {
 
 
   function purchaseTicket () {
-
+    
     modalEl.removeChild(modalBodyEl)
     modalEl.removeChild(modalFooterEl)
 
